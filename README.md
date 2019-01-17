@@ -98,5 +98,5 @@
 
   - Taroth Arrow "King"
   - Taroth Arrow "Decay"
-  - ![Taroth Arrow "Queen"](https://monsterhunterworld.wiki.fextralife.com/Taroth+Arrow+Queen)
+  - [Taroth Arrow "Queen"](https://monsterhunterworld.wiki.fextralife.com/Taroth+Arrow+Queen)
   - Taroth Arrow "Thief"

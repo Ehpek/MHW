@@ -1,37 +1,75 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Ehpek/MHW/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ehpek/MHW/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Great Swords
+  Taroth Blaze "Ice"
+  Taroth Blaze "Water"
+  Taroth Blaze "Glutton"
+  Giant Jawblade 1
+# Long Swords
+  Taroth Sword "Fire"
+  Taroth Sword "Paralysis"
+  Taroth Sword "Magma"
+  Taroth Sword "Gyre"
+  Azure Star "Dragon Dance"
+# Sword and Shield
+  Taroth Slicer "Fire"
+  Taroth Slicer "Myth"
+  Taroth Slicer "Stream"
+  Taroth Slicer "Rage"
+  Taroth Slicer "Spew"
+# Daggers
+  Taroth Daggers "Blast"
+  Taroth Daggers "Horn"
+  Taroth Daggers "Claw"
+  Taroth Daggers "Flash"
+  Taroth Daggers "Lurk"
+  Taroth Daggers "Spark"
+# Hammers
+  Taroth Hammer "Ice"
+  Taroth Hammer "Horn"
+  Taroth Hammer "Rage"
+  Taroth Hammer "Mud"
+  Taroth Hammer "Spew"
+# Hunting Horn
+  Taroth Pipe "Paralysis"
+  Taroth Pipe "Buzzer"
+# Lances
+  Taroth Crest "Sleep"
+  Taroth Crest "King"
+  Taroth Crest "Lurk"
+  Taroth Crest "Mud"
+# Gunlances
+ Taroth Buster "King"
+ Taroth Buster "Stream"
+ Taroth Buster "Rage"
+ Taroth Buster "Spark"
+ Taroth Buster "Glutton"
+ King Gold Exploder
+# Switch Axes
+  Taroth Axe "Sleep"
+  Taroth Axe "Decay"
+  Taroth Axe "Glutton"
+# Charge Blades
+  Taroth Strongarm "Crasher"
+  Taroth Strongarm "King"
+  Taroth Strongarm "Claw"
+# Insect Glaives
+  Taroth Glaive "Crusher"
+# Bowguns
+  Taroth Blitz "Shot"
+  Taroth Blitz "Claw"
+  Taroth Blitz "Rage"
+  Taroth Blitz "Mud"
+# Heavy Bowguns
+  Taroth Assault "Magma"
+  Taroth Assault "Tar"
+  Taroth Assault "Spark"
+  Taroth Assault "Spew"
+  Taroth Assault "Glutton"
+  Magda Gemitus 2
+  Bone Shooter 1
+  Blazing Assault 1
+  Gluttonous Fangcannon
+# Bows
+  Taroth Arrow "King"
+  Taroth Arrow "Decay"
+  Taroth Arrow "Queen"
+  Taroth Arrow "Thief"

@@ -75,20 +75,20 @@
 
   - Taroth Glaive "Crusher"
 
-# Bowguns
+# Light Bowguns
 
-  - Taroth Blitz "Shot"
-  - Taroth Blitz "Claw"
-  - Taroth Blitz "Rage"
-  - Taroth Blitz "Mud"
+  - [Taroth Blitz "Shot"](https://monsterhunterworld.wiki.fextralife.com/Taroth+Blitz+Shot)
+  - [Taroth Blitz "Claw"](https://monsterhunterworld.wiki.fextralife.com/Taroth+Blitz+Claw)
+  - [Taroth Blitz "Rage"](https://monsterhunterworld.wiki.fextralife.com/Taroth+Blitz+Rage)
+  - [Taroth Blitz "Mud"](https://monsterhunterworld.wiki.fextralife.com/Taroth+Blitz+Mud)
 
 # Heavy Bowguns
 
-  - Taroth Assault "Magma"
-  - Taroth Assault "Tar"
-  - Taroth Assault "Spark"
-  - Taroth Assault "Spew"
-  - Taroth Assault "Glutton"
+  - [Taroth Assault "Magma"](https://monsterhunterworld.wiki.fextralife.com/Taroth+Assault+Magma)
+  - [Taroth Assault "Tar"](https://monsterhunterworld.wiki.fextralife.com/Taroth+Assault+Tar)
+  - [Taroth Assault "Spark"](https://monsterhunterworld.wiki.fextralife.com/Taroth+Assault+Glutton)
+  - [Taroth Assault "Spew"](https://monsterhunterworld.wiki.fextralife.com/Taroth+Assault+Glutton)
+  - [Taroth Assault "Glutton"](https://monsterhunterworld.wiki.fextralife.com/Taroth+Assault+Glutton)
   - Magda Gemitus 2
   - Bone Shooter 1
   - Blazing Assault 1
